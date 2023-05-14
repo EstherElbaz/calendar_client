@@ -8,7 +8,6 @@ import FindEvent from './components/FindEvent';
 import AddEventToC from './components/AddEventToC'
 
 
-
 function App() {
   return (
     <div className="App">
